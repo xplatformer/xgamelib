@@ -31,4 +31,3 @@ Developed as a part of the XPlatformer project, the *References* folder contains
 To make ("compile and link") using the framework, use the included makefile as an example.  In order to properly link the line `-I../References` must be included in the compile path. For example, to make null.cpp:
 
 	g++ -o null null.cpp -L/usr/X11R6/lib -lX11 -I../References -lstdc++
-
