@@ -30,7 +30,7 @@ public:
 	}
 
 	/// The animation delay coefficient.
-	static const int ANIMATION_DELAY = 1;
+	static const int ANIMATION_DELAY = 2;
 
 private:
 	int _start;
