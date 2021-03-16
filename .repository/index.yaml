@@ -1,0 +1,15 @@
+slug: xgamelib
+description: A framework for a 2D Platformer built using the X Window System.
+project: xplatformer
+namespace: archive
+status: archived
+icon: icon.svg
+license:
+  type: MIT
+  content: Jonathan Beverly <jrbeverly>
+  year: 2017
+topics: |-
+  [
+    "x11",
+    "game-development"
+  ]
